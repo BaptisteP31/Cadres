@@ -1,0 +1,61 @@
+G:\Logiciel Cadres\Test 1\Cadres\Cadres\bin\Debug\Cadres.exe.config
+G:\Logiciel Cadres\Test 1\Cadres\Cadres\bin\Debug\Cadres.exe
+G:\Logiciel Cadres\Test 1\Cadres\Cadres\bin\Debug\Cadres.pdb
+G:\Logiciel Cadres\Test 1\Cadres\Cadres\bin\Debug\Cadres.xml
+G:\Logiciel Cadres\Test 1\Cadres\Cadres\obj\Debug\Cadres.vbprojAssemblyReference.cache
+G:\Logiciel Cadres\Test 1\Cadres\Cadres\obj\Debug\Cadres.Form1.resources
+G:\Logiciel Cadres\Test 1\Cadres\Cadres\obj\Debug\Cadres.Resources.resources
+G:\Logiciel Cadres\Test 1\Cadres\Cadres\obj\Debug\Cadres.vbproj.GenerateResource.cache
+G:\Logiciel Cadres\Test 1\Cadres\Cadres\obj\Debug\Cadres.vbproj.CoreCompileInputs.cache
+G:\Logiciel Cadres\Test 1\Cadres\Cadres\obj\Debug\Cadres.exe
+G:\Logiciel Cadres\Test 1\Cadres\Cadres\obj\Debug\Cadres.xml
+G:\Logiciel Cadres\Test 1\Cadres\Cadres\obj\Debug\Cadres.pdb
+G:\Logiciel Cadres\Test 1\Cadres\Cadres\bin\Debug\aa-DJ\Cadres.resources.dll
+G:\Logiciel Cadres\Test 1\Cadres\Cadres\obj\Debug\Cadres.Form1.aa-DJ.resources
+G:\Logiciel Cadres\Test 1\Cadres\Cadres\obj\Debug\aa-DJ\Cadres.resources.dll
+G:\Logiciel Cadres\Test 1\Cadres\Cadres\bin\Debug\Cadres.exe.manifest
+G:\Logiciel Cadres\Test 1\Cadres\Cadres\bin\Debug\Cadres.application
+G:\Logiciel Cadres\Test 1\Cadres\Cadres\obj\Debug\Cadres.exe.manifest
+G:\Logiciel Cadres\Test 1\Cadres\Cadres\obj\Debug\Cadres.application
+D:\Users\paque\Documents\Logiciel Cadres\Test 1\Cadres\Cadres\bin\Debug\Cadres.exe.config
+D:\Users\paque\Documents\Logiciel Cadres\Test 1\Cadres\Cadres\bin\Debug\Cadres.exe.manifest
+D:\Users\paque\Documents\Logiciel Cadres\Test 1\Cadres\Cadres\bin\Debug\Cadres.application
+D:\Users\paque\Documents\Logiciel Cadres\Test 1\Cadres\Cadres\bin\Debug\Cadres.exe
+D:\Users\paque\Documents\Logiciel Cadres\Test 1\Cadres\Cadres\bin\Debug\Cadres.pdb
+D:\Users\paque\Documents\Logiciel Cadres\Test 1\Cadres\Cadres\bin\Debug\Cadres.xml
+D:\Users\paque\Documents\Logiciel Cadres\Test 1\Cadres\Cadres\bin\Debug\aa-DJ\Cadres.resources.dll
+D:\Users\paque\Documents\Logiciel Cadres\Test 1\Cadres\Cadres\obj\Debug\Cadres.vbproj.AssemblyReference.cache
+D:\Users\paque\Documents\Logiciel Cadres\Test 1\Cadres\Cadres\obj\Debug\Cadres.vbproj.SuggestedBindingRedirects.cache
+D:\Users\paque\Documents\Logiciel Cadres\Test 1\Cadres\Cadres\obj\Debug\Cadres.Form1.resources
+D:\Users\paque\Documents\Logiciel Cadres\Test 1\Cadres\Cadres\obj\Debug\Cadres.Resources.resources
+D:\Users\paque\Documents\Logiciel Cadres\Test 1\Cadres\Cadres\obj\Debug\Cadres.Form1.aa-DJ.resources
+D:\Users\paque\Documents\Logiciel Cadres\Test 1\Cadres\Cadres\obj\Debug\Cadres.vbproj.GenerateResource.cache
+D:\Users\paque\Documents\Logiciel Cadres\Test 1\Cadres\Cadres\obj\Debug\Cadres.vbproj.CoreCompileInputs.cache
+D:\Users\paque\Documents\Logiciel Cadres\Test 1\Cadres\Cadres\obj\Debug\aa-DJ\Cadres.resources.dll
+D:\Users\paque\Documents\Logiciel Cadres\Test 1\Cadres\Cadres\obj\Debug\Cadres.exe.manifest
+D:\Users\paque\Documents\Logiciel Cadres\Test 1\Cadres\Cadres\obj\Debug\Cadres.application
+D:\Users\paque\Documents\Logiciel Cadres\Test 1\Cadres\Cadres\obj\Debug\Cadres.exe
+D:\Users\paque\Documents\Logiciel Cadres\Test 1\Cadres\Cadres\obj\Debug\Cadres.xml
+D:\Users\paque\Documents\Logiciel Cadres\Test 1\Cadres\Cadres\obj\Debug\Cadres.pdb
+D:\Users\paque\Documents\Logiciel Cadres\Test 1\Cadres\Cadres\obj\Debug\Cadres.Form2.resources
+C:\Users\paque\Desktop\Cadres\Cadres\bin\Debug\Cadres.exe.config
+C:\Users\paque\Desktop\Cadres\Cadres\bin\Debug\Cadres.exe.manifest
+C:\Users\paque\Desktop\Cadres\Cadres\bin\Debug\Cadres.application
+C:\Users\paque\Desktop\Cadres\Cadres\bin\Debug\Cadres.exe
+C:\Users\paque\Desktop\Cadres\Cadres\bin\Debug\Cadres.pdb
+C:\Users\paque\Desktop\Cadres\Cadres\bin\Debug\Cadres.xml
+C:\Users\paque\Desktop\Cadres\Cadres\bin\Debug\aa-DJ\Cadres.resources.dll
+C:\Users\paque\Desktop\Cadres\Cadres\obj\Debug\Cadres.vbproj.AssemblyReference.cache
+C:\Users\paque\Desktop\Cadres\Cadres\obj\Debug\Cadres.vbproj.SuggestedBindingRedirects.cache
+C:\Users\paque\Desktop\Cadres\Cadres\obj\Debug\Cadres.Form1.resources
+C:\Users\paque\Desktop\Cadres\Cadres\obj\Debug\Cadres.Form2.resources
+C:\Users\paque\Desktop\Cadres\Cadres\obj\Debug\Cadres.Resources.resources
+C:\Users\paque\Desktop\Cadres\Cadres\obj\Debug\Cadres.Form1.aa-DJ.resources
+C:\Users\paque\Desktop\Cadres\Cadres\obj\Debug\Cadres.vbproj.GenerateResource.cache
+C:\Users\paque\Desktop\Cadres\Cadres\obj\Debug\Cadres.vbproj.CoreCompileInputs.cache
+C:\Users\paque\Desktop\Cadres\Cadres\obj\Debug\aa-DJ\Cadres.resources.dll
+C:\Users\paque\Desktop\Cadres\Cadres\obj\Debug\Cadres.exe.manifest
+C:\Users\paque\Desktop\Cadres\Cadres\obj\Debug\Cadres.application
+C:\Users\paque\Desktop\Cadres\Cadres\obj\Debug\Cadres.exe
+C:\Users\paque\Desktop\Cadres\Cadres\obj\Debug\Cadres.xml
+C:\Users\paque\Desktop\Cadres\Cadres\obj\Debug\Cadres.pdb
